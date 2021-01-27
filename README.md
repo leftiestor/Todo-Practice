@@ -1,2 +1,2 @@
 # Todo-Practice
-Todo project practice on vue and node.js.
+Todo project practice based on vue and node.js.
